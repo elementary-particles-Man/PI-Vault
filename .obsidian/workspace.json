@@ -11,10 +11,14 @@
             "id": "d5d533f7eea38bea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Workflows/Standard_Analysis_Workflow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Standard_Analysis_Workflow"
             }
           }
         ]
@@ -162,7 +166,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "725f4ff66acd20db",
+  "active": "d5d533f7eea38bea",
   "lastOpenFiles": [
     "Welcome.md"
   ]
