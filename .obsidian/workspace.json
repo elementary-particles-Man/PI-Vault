@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflows/Standard_Analysis_Workflow.md",
+                "file": "WAU_Refine/2025-07-15_AI-TCP_スマホ構造化読解_異常解析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard_Analysis_Workflow"
+              "title": "2025-07-15_AI-TCP_スマホ構造化読解_異常解析"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "active": "d5d533f7eea38bea",
   "lastOpenFiles": [
+    "Workflows/Standard_Analysis_Workflow.md",
+    "WAU_Refine/2025-07-15_AI-TCP_スマホ構造化読解_異常解析.md",
+    "WAU_Refine",
     "Welcome.md"
   ]
 }
